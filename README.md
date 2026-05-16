@@ -30,12 +30,4 @@ Digital Marketing Analysis: Worked with SQL + Excel to clean data, and calculate
 
 📂 Repository Structure
 
-Keep this brief so users know where the "meat" of the project is.
-
-    /data: Raw and processed datasets.
-
-    /notebooks: Exploratory analysis and model training.
-
-    /src: Production code or scripts.
-
-    Project_Analysis.pdf: The final rendered report.
+    /COOP Restaurant Inspections Presentation .pptx: Slides associated with NYC restaurant violations analysis.
