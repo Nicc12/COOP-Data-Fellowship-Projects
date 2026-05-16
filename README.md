@@ -24,8 +24,6 @@ Digital Marketing Analysis: Worked with SQL + Excel to clean data, and calculate
 
 📊 Key Insights & Outcomes
 
-Instead of just saying "I did X," say "I found Y."
-
     Insight 1: I discovered that lower restaurants were associated with identified area codes.
 
     Insight 2: I found that device conversions were mainly concentrated on smartphone interfaces, and despite Sharethrough and PulsePoint having the highest conversion rates, Yieldmo and Xander generated the most productive value for companies' advertisements. 
